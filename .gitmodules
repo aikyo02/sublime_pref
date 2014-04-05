@@ -13,3 +13,21 @@
 [submodule "sublimetext-markdown-preview"]
 	path = sublimetext-markdown-preview
 	url = https://github.com/revolunet/sublimetext-markdown-preview
+[submodule "HTML-Snippets"]
+	path = HTML-Snippets
+	url = https://github.com/joshnh/HTML-Snippets/
+[submodule "sublime-text-2-ruby-tests"]
+	path = sublime-text-2-ruby-tests
+	url = https://github.com/maltize/sublime-text-2-ruby-tests
+[submodule "RubyTest"]
+	path = RubyTest
+	url = https://github.com/maltize/sublime-text-2-ruby-tests
+[submodule "User/rails_tutorial_snippets"]
+	path = User/rails_tutorial_snippets
+	url = https://github.com/mhartl/rails_tutorial_snippets
+[submodule "User/RailsTutorial"]
+	path = User/RailsTutorial
+	url = https://github.com/mhartl/rails_tutorial_snippets
+[submodule "User/sublime_text_alternative_autocompletion"]
+        path = User/sublime_text_alternative_autocompletion
+        url = https://github.com/atombender/sublime_text_alternative_autocompletion
