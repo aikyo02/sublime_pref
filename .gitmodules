@@ -1,0 +1,15 @@
+[submodule "CSS-Snippets"]
+	path = CSS-Snippets
+	url = https://github.com/joshnh/CSS-Snippets
+[submodule "ERB-Sublime-Snippets"]
+	path = ERB-Sublime-Snippets
+	url = https://github.com/matthewrobertson/ERB-Sublime-Snippets
+[submodule "sublime-markdown-extended"]
+	path = sublime-markdown-extended
+	url = https://github.com/jonschlinkert/sublime-markdown-extended
+[submodule "sublime-monokai-extended"]
+	path = sublime-monokai-extended
+	url = https://github.com/jonschlinkert/sublime-monokai-extended
+[submodule "sublimetext-markdown-preview"]
+	path = sublimetext-markdown-preview
+	url = https://github.com/revolunet/sublimetext-markdown-preview

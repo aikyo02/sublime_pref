@@ -1,0 +1,4 @@
+{
+	"last_test_run": "rspec spec/models/user_spec.rb -l4",
+	"last_test_working_dir": "/Users/hiroshiaikyo/rails_projects/sample_app"
+}
