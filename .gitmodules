@@ -31,3 +31,6 @@
 [submodule "User/sublime_text_alternative_autocompletion"]
         path = User/sublime_text_alternative_autocompletion
         url = https://github.com/atombender/sublime_text_alternative_autocompletion
+[submodule "CTags"]
+	path = CTags
+	url = https://github.com/SublimeText/CTags.git
