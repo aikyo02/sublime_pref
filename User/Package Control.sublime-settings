@@ -1,4 +1,8 @@
 {
+	"auto_upgrade_ignore":
+	[
+		"CoffeeScript"
+	],
 	"installed_packages":
 	[
 		"RubyTest",

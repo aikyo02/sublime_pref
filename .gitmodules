@@ -34,3 +34,15 @@
 [submodule "CTags"]
 	path = CTags
 	url = https://github.com/SublimeText/CTags.git
+[submodule "SublimeOnSaveBuild"]
+	path = SublimeOnSaveBuild
+	url = git://github.com/alexnj/SublimeOnSaveBuild.git
+[submodule "CoffeeScript"]
+	path = CoffeeScript
+	url = https://github.com/Xavura/CoffeeScript-Sublime-Plugin.git
+[submodule "Syntax-highlighting-for-Sass"]
+	path = Syntax-highlighting-for-Sass
+	url = git@github.com:P233/Syntax-highlighting-for-Sass.git
+[submodule "ruby-slim.tmbundle"]
+	path = ruby-slim.tmbundle
+	url = git@github.com:slim-template/ruby-slim.tmbundle.git

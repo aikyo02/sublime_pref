@@ -1,4 +1,4 @@
 {
-	"last_test_run": "rspec spec/models/user_spec.rb -l4",
-	"last_test_working_dir": "/Users/hiroshiaikyo/rails_projects/sample_app"
+	"last_test_run": "~/.rbenv/shims/bundle exec rspec spec/requests/authentication_pages_spec.rb",
+	"last_test_working_dir": "/Users/AikyoHiroshi/Documents/sample/rails_tutorial/sample_app"
 }
